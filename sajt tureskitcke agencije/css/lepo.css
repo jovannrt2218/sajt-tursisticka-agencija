@@ -1,0 +1,33 @@
+footer {
+
+	background-color:  #8fd3fe;
+	padding :2rem;
+	margin-top: 2rem;
+
+}
+
+footer a {
+
+	color: #666666 ;
+	transition: color 0.4s ease-in;
+	padding: 0.2rem;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+
+}
+
+footer a:hover {
+	color: red;
+	text-decoration: none ;
+
+}
+
+footer p {
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
